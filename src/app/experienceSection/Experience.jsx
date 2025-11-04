@@ -17,6 +17,11 @@ const Experience = () => {
         info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
       },
       {
+        img: ex4Image,
+        title: "CIB on the Mobile",
+        info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
+      },
+      {
         img: ex2Image,
         title: "CIB on the Mobile",
         info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
@@ -28,6 +33,11 @@ const Experience = () => {
       },
       {
         img: ex4Image,
+        title: "CIB on the Mobile",
+        info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
+      },
+      {
+        img: ex3Image,
         title: "CIB on the Mobile",
         info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
       },
@@ -54,7 +64,7 @@ const Experience = () => {
     });
   }, []);
   return (
-    <div className="my-36 container mx-auto px-4">
+    <div className="my-16 container mx-auto px-4">
       <p className="capitalize text-3xl mb-10 font-preah">Work Experience</p>
       <div className="flex flex-wrap gap-7 justify-center relative font-jakarta">
         <Image

@@ -10,7 +10,7 @@ import facebookImg from "../../../public/facebook.png";
 
 const Hero = () => {
   return (
-    <div id="home" className="my-16 container mx-auto px-4 font-preah">
+    <div id="home" className="my-36 container mx-auto px-4 font-preah">
       <div className="flex max-md:flex-col">
         <div className="relative w-[300px] max-md:w-full flex justify-center items-center">
           <Image
@@ -68,7 +68,7 @@ const Hero = () => {
       </div>
 
       <div className="my-10">
-        <p className="text-4xl">I&apos;m a Software Engineer.|</p>
+        <p className="text-4xl mt-24">I&apos;m a Software Engineer.|</p>
         <p className="text-sm mt-2">
           Currently, I&apos;m a Software Engineer at
           <a
