@@ -3,7 +3,7 @@
 import React from "react";
 import gradient from "../../../public/Gradient.png";
 import Image from "next/image";
-import ExperienceCard from "./ExperienceCard";
+import ExperienceCards from "./ExperienceCards";
 
 const Experience = () => {
   return (
@@ -17,7 +17,7 @@ const Experience = () => {
           height={600}
           className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 animate-image"
         />
-        <ExperienceCard />
+        <ExperienceCards />
       </div>
     </div>
   );

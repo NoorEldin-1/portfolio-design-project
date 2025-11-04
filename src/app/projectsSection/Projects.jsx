@@ -1,12 +1,12 @@
 "use client";
 
 import React, { useMemo } from "react";
-import ProjectsCard from "./ProjectsCard";
+import ProjectsCards from "./ProjectsCards";
 
 const Projects = () => {
   return (
     <div id="about" className="my-36 container mx-auto px-4 font-jakarta">
-      <ProjectsCard />
+      <ProjectsCards />
     </div>
   );
 };
