@@ -11,8 +11,19 @@ import Image from "next/image";
 const Experience = () => {
   const renderExperience = useMemo(() => {
     const elements = [
-      {
+      
+{
         img: ex1Image,
+        title: "CIB on the Mobile",
+        info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
+      },
+{
+        img: ex2Image,
+        title: "CIB on the Mobile",
+        info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
+      },
+{
+        img: ex3Image,
         title: "CIB on the Mobile",
         info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
       },

@@ -53,7 +53,11 @@ const Navbar = () => {
           height={20}
           className="cursor-pointer"
         />
+<<<<<<< HEAD
         <div className="flex items-center gap-14">{renderLinks}</div>
+=======
+        <div className="flex items-center gap-10">{renderLinks}</div>
+>>>>>>> 67562c7331a4a5b8149608c1843a1bf78fdeab54
       </div>
     </div>
   );
