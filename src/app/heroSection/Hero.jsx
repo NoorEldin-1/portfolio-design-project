@@ -68,7 +68,7 @@ const Hero = () => {
       </div>
 
       <div className="my-10">
-        <p className="text-4xl">I&apos;m a Software Engineer.|</p>
+        <p className="text-4xl mt-10">I&apos;m a Software Engineer.|</p>
         <p className="text-sm mt-2">
           Currently, I&apos;m a Software Engineer at
           <a
