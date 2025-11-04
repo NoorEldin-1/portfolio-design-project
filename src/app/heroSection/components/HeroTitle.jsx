@@ -2,8 +2,8 @@
 
 import Image from "next/image";
 import React from "react";
-import draw from "../../../public/Ellipse.png";
-import arrow from "../../../public/Arrow.png";
+import draw from "../../../../public/Ellipse.png";
+import arrow from "../../../../public/Arrow.png";
 
 const HeroTitle = () => {
   return (

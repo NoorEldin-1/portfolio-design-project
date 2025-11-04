@@ -1,8 +1,8 @@
 "use client";
 
 import React, { useMemo } from "react";
-import cardImage from "../../../public/pro1.png";
-import cardIcon from "../../../public/proIcon.png";
+import cardImage from "../../../../public/pro1.png";
+import cardIcon from "../../../../public/proIcon.png";
 import Card from "./Card";
 
 const ProjectsCards = () => {

@@ -1,10 +1,10 @@
 "use client";
 
 import React, { useMemo } from "react";
-import ex1Image from "../../../public/ex1.png";
-import ex2Image from "../../../public/ex2.png";
-import ex3Image from "../../../public/ex3.png";
-import ex4Image from "../../../public/ex4.png";
+import ex1Image from "../../../../public/ex1.png";
+import ex2Image from "../../../../public/ex2.png";
+import ex3Image from "../../../../public/ex3.png";
+import ex4Image from "../../../../public/ex4.png";
 import Card from "./Card";
 
 const ExperienceCards = () => {

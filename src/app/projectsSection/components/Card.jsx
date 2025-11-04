@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import React from "react";
-import gradient from "../../../public/Gradient.png";
+import gradient from "../../../../public/Gradient.png";
 
 const Card = ({ image, title, subTitle, info, icon, isOdd }) => {
   return (

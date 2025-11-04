@@ -2,8 +2,8 @@
 
 import Image from "next/image";
 import React from "react";
-import gradient from "../../../public/Gradient.png";
-import me from "../../../public/Me.png";
+import gradient from "../../../../public/Gradient.png";
+import me from "../../../../public/Me.png";
 
 const HeroImg = () => {
   return (

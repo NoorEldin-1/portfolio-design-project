@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import React from "react";
-import facebookImg from "../../../public/facebook.png";
+import facebookImg from "../../../../public/facebook.png";
 
 const HeroDescription = () => {
   return (

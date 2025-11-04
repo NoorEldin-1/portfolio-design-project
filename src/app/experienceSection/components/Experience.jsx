@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import gradient from "../../../public/Gradient.png";
+import gradient from "../../../../public/Gradient.png";
 import Image from "next/image";
 import ExperienceCards from "./ExperienceCards";
 
