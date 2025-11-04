@@ -16,6 +16,21 @@ const Experience = () => {
         title: "CIB on the Mobile",
         info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
       },
+{
+        img: ex1Image,
+        title: "CIB on the Mobile",
+        info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
+      },
+{
+        img: ex1Image,
+        title: "CIB on the Mobile",
+        info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
+      },
+{
+        img: ex1Image,
+        title: "CIB on the Mobile",
+        info: "Take your client onboard seamlessly by our amazing tool of digital onboard process.",
+      },
       {
         img: ex2Image,
         title: "CIB on the Mobile",
