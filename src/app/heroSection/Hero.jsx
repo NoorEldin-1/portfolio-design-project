@@ -60,7 +60,7 @@ const Hero = () => {
               </span>
               ...
             </p>
-            <p className="text-xs">
+            <p className="text-xs mt-2">
               Because if the cover does not impress you what else can?
             </p>
           </div>
@@ -68,11 +68,7 @@ const Hero = () => {
       </div>
 
       <div className="my-10">
-<<<<<<< HEAD
         <p className="text-4xl mt-24">I&apos;m a Software Engineer.|</p>
-=======
-        <p className="text-4xl mt-10">I&apos;m a Software Engineer.|</p>
->>>>>>> 67562c7331a4a5b8149608c1843a1bf78fdeab54
         <p className="text-sm mt-2">
           Currently, I&apos;m a Software Engineer at
           <a
