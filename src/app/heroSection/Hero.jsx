@@ -1,9 +1,9 @@
 "use client";
 
 import React from "react";
-import HeroImg from "./HeroImg";
-import HeroTitle from "./HeroTitle";
-import HeroDescription from "./HeroDescription";
+import HeroImg from "./components/HeroImg";
+import HeroTitle from "./components/HeroTitle";
+import HeroDescription from "./components/HeroDescription";
 
 const Hero = () => {
   return (

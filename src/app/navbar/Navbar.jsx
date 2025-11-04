@@ -1,8 +1,8 @@
 "use client";
 
 import React, { useCallback, useEffect, useState } from "react";
-import NavLink from "./NavLink";
-import Logo from "./Logo";
+import Logo from "./components/Logo";
+import NavLink from "./components/NavLink";
 
 const Navbar = () => {
   const [showNavbar, setShowNavbar] = useState(true);

@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import React from "react";
-import skillsImg from "../../../../public/skills.png";
+import skillsImg from "../../../public/skills.png";
 
 const Skills = () => {
   return (

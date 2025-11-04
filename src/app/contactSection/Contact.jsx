@@ -1,9 +1,9 @@
 "use client";
 
 import React from "react";
-import icon1 from "../../../../public/i-1.png";
-import icon2 from "../../../../public/i-2.png";
-import icon3 from "../../../../public/i-3.png";
+import icon1 from "../../../public/i-1.png";
+import icon2 from "../../../public/i-2.png";
+import icon3 from "../../../public/i-3.png";
 import Image from "next/image";
 
 const Contact = () => {
